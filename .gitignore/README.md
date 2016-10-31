@@ -4,3 +4,5 @@ wholeSentence = sentence_one + " "+ sentence_two
 print(wholeSentence)
 splited_list = wholeSentence.split()
 print(splited_list)
+alphabetical_list = splited_list.sort
+print(alphabetical_list)
